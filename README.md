@@ -4,4 +4,4 @@
 
 ## some examples
 
-## 'GaltonFamilies.ipynb' : shows some of the data handling and visualization techniques with an example from 'GaltonFamilies.csv'
+ `GaltonFamilies.ipynb` : shows some of the data handling and visualization techniques with an example from `GaltonFamilies.csv`
