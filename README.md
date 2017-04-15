@@ -1,10 +1,14 @@
 # CoderGirlDS
 
-## Home for the in-class exercises covered in LaunchCoderGirl Data Science track. 
+### See weekly exercises in the [PythonPractice/code](https://github.com/samimath/CoderGirlDS/tree/master/PythonPractice) folder: 
 
 ### Things we covered:
+#### 2017-04-11
+__Exploring-Data-InClass.ipynb__: an exercise to practice dealing with messy data [Hotel_Tax.csv](https://github.com/samimath/CoderGirlDS/tree/master/PythonPractice/Data/Hotel_Tax.csv) using the tools we learned from the [pandas](http://pandas.pydata.org/) package.
+
+The solution,__Exploring-Data-InClass-Answers.ipynb__ is also posted in this repository. Please try completeing the remaining exercises on your own before looking at the answers.
 #### 2017-04-05 
-In the [PythonPractice](https://github.com/samimath/CoderGirlDS/tree/master/PythonPractice) folder: 
+
 
  __GaltonFamilies.ipynb__: shows some of the data handling and visualization techniques with an example from __GaltonFamilies.csv__, which can be found in the [Data](https://github.com/samimath/CoderGirlDS/tree/master/Data) folder.
  
