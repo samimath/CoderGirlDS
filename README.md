@@ -7,6 +7,7 @@
 __Exploring-Data-InClass.ipynb__: an exercise to practice dealing with messy data [Hotel_Tax.csv](https://github.com/samimath/CoderGirlDS/tree/master/PythonPractice/Data/Hotel_Tax.csv) using the tools we learned from the [pandas](http://pandas.pydata.org/) package.
 
 The solution,__Exploring-Data-InClass-Answers.ipynb__ is also posted in this repository. Please try completeing the remaining exercises on your own before looking at the answers.
+
 #### 2017-04-05 
 
 
